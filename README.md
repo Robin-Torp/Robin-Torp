@@ -1,119 +1,100 @@
-<h1 align="center">Hi, I'm Robin 👋</h1>
+# Robin Torp
 
-<h3 align="center">Junior Web Developer | Frontend & Backend</h3>
+**Software Developer | Full-Stack Development | Backend Systems**
 
-<p align="center">
-Building modern web applications with React, Node.js and Python.<br/>
-Passionate about backend development, AI-assisted development and creating scalable solutions.
-</p>
+Based in Karlstad, Sweden · Open to opportunities
 
-<p align="center">
-📍 Karlstad, Sweden &nbsp; • &nbsp; 🟢 Open to Work
-</p>
+I'm a web developer with a background in full-stack development and a growing focus on backend systems, software architecture, and building reliable applications.
 
----
+My experience spans modern web technologies, REST APIs, databases, containerized development environments, and collaborative development workflows.
 
-## 👨‍💻 About Me
+I enjoy understanding how systems work beyond the surface, solving technical problems, and continuously expanding my knowledge through practical projects.
 
-* 💻 Junior Web Developer with experience building full-stack web applications
-* 🎓 Web Development @ Folkuniversitetet (2024–2026)
-* ⚙️ Experienced with both frontend and backend development
-* 🔄 Comfortable working with Agile methodologies and Git workflows
-* 🌱 Always learning new technologies and improving my skills
-* 🚀 Looking for my first full-time developer role
+[LinkedIn](https://www.linkedin.com/in/robin-torp-213a20325) · [Email](mailto:robin-torp-work@hotmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,mongodb,docker,git,github,vscode&perline=6" />
-</p>
+### Languages & Frontend
 
-### Frontend
+`JavaScript` `TypeScript` `Python` `HTML` `CSS` `React` `Redux`
 
-`React` • `TypeScript` • `JavaScript` • `Redux` • `HTML5` • `CSS3`
+### Backend & APIs
 
-### Backend
+`Node.js` `Express.js` `REST APIs` `Authentication` `Web Scraping`
 
-`Node.js` • `Express` • `Python`
+### Databases & Infrastructure
 
-### Databases
+`MongoDB` `Supabase` `MariaDB` `Redis` `Elasticsearch` `Docker` `Docker Compose`
 
-`MongoDB` • `Supabase`
+### Development Tools & Practices
 
-### Other
+`Git` `GitHub` `VS Code` `Agile Development` `Debugging` `API Integration`
 
-`REST APIs` • `Authentication` • `CRUD Applications` • `AI-assisted Development` • `Web Scraping` • `Agile Development`
+### Currently Exploring
 
----
-
-## 🌟 Featured Projects
-
-### 🎮 Knajt Fajt
-
-A browser fighting game built with JavaScript and Phaser.
-
-#### Features
-
-* User authentication
-* Online leaderboard
-* Supabase backend
-* Game state management
-
-🔗 **Live Demo**
-
-https://knajt-fajt-host.vercel.app/
+`C++` `JUCE` `CMake` `VST3 Development` `Software Architecture`
 
 ---
 
-## 💼 Experience
+## Selected Work
+
+### Knajt Fajt
+
+**Browser-based fighting game | JavaScript, Phaser, Supabase**
+
+A browser-based fighting game featuring user authentication, online leaderboards, and persistent player data.
+
+The project combines interactive game development with backend integration and application state management.
+
+**Key technologies:** JavaScript, Phaser, Supabase
+
+[Live Application](https://knajt-fajt-host.vercel.app/)
+
+---
+
+## Professional Experience
 
 ### Backend Developer Intern — Bostr
 
-Worked on backend development with a focus on:
+Worked in a backend development environment involving microservices, API integrations, data processing, and containerized services.
 
-* AI-assisted development
-* Web scraping
-* Backend systems
-* REST APIs
-* Agile teamwork
+Areas of experience include:
 
----
-
-## 📈 Currently Learning
-
-* Advanced TypeScript
-* Python
+- Backend development and REST API integrations
+- Web scraping and data processing
+- Working with Docker-based development environments
+- Understanding and navigating microservice architectures
+- Git-based workflows and collaborative development
+- AI-assisted development, debugging, and problem-solving
 
 ---
 
-## 💡 Interests
+## Background
 
-* Backend Development
-* Full Stack Web Development
-* REST API Design
-* Clean Code
-* Problem Solving
-* AI-assisted Development
+**Web Development — Folkuniversitetet**  
+2024–2026
+
+Education focused on modern web development, covering frontend and backend technologies, databases, API development, and practical software projects.
 
 ---
 
-## 📫 Connect With Me
+## What I'm Working On
 
-💼 LinkedIn
+I'm currently expanding my experience through independent projects, with a focus on writing maintainable code and understanding the underlying technologies.
 
-https://www.linkedin.com/in/robin-torp-213a20325
+My current areas of development include:
 
-📧 Email
-
-[robin-torp-work@hotmail.com](mailto:robin-torp-work@hotmail.com)
+- Building a personal developer portfolio using modern web technologies
+- Exploring C++ and audio software development with JUCE
+- Strengthening backend architecture and software engineering fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## Contact
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Robin-Torp&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Torp&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+I'm interested in opportunities where I can contribute as a developer, continue learning, and work alongside experienced engineers.
+
+**LinkedIn:** [linkedin.com/in/robin-torp-213a20325](https://www.linkedin.com/in/robin-torp-213a20325)  
+**Email:** [robin-torp-work@hotmail.com](mailto:robin-torp-work@hotmail.com)
