@@ -126,6 +126,6 @@ Full-stack web development covering frontend technologies, backend systems, data
 
 I'm open to opportunities where I can contribute, collaborate, and continue growing as a software developer.
 
-[LinkedIn](https://www.linkedin.com/in/robin-torp-213a20325) · [GitHub](https://github.com/Robin-Torp) · [Email](mailto:robin-torp-work@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/robin-torp-213a20325) · [Email](mailto:robin-torp-work@hotmail.com)
 
 </div>
